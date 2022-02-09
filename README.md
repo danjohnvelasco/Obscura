@@ -1,13 +1,9 @@
 ![Obscura Logo](https://github.com/AxelAlba/Obscura_V2/blob/master/public/img/logo.PNG)
 
+**NOTE:** This is for my web development class :stuck_out_tongue:
+
 **Obscura** is a social media app for creatives. It's a place to discover ideas, get inspired, and showcase your own work. It's a platform to explore art whether you are a potential client, a fellow creative, or just bored. As Obscura's tagline says, whatever you see.
 
-#### From the community:
-> Finding your next collab partner is better with Obscura. -just another creative
-
-> I found my first hire in Obscura!. -just another client
-
-> Cool stuff bro. -just another bored person
 
 ## :joy_cat:Authors
 * Alba, Axel
